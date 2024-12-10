@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **prathamjain0608@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1qEY6apo5IsJDVGOon13ajM1Jm4b72chB/view?usp=drive_link](https://drive.google.com/file/d/1qEY6apo5IsJDVGOon13ajM1Jm4b72chB/view?usp=drive_link)
+- 📄 Know about my experiences [https://tinyurl.com/mrjresume](https://tinyurl.com/mrjresume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
