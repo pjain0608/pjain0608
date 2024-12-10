@@ -1,28 +1,17 @@
-## Hi there 👋 This is Pratham
+<h1 align="center">Hi 👋, I'm Pratham Jain</h1>
+<h3 align="center">I’m passionate about building dynamic web applications that bridge the gap between frontend and backend systems. With a strong foundation in Python, Django, HTML, CSS, JavaScript, and SQL, I strive to make data integration seamless and accessible.</h3>
 
-<!--
-**pjain0608/pjain0608** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **Python, Django, MySQL, HTML, CSS**
 
-Here are some ideas to get you started:
+- 📫 How to reach me **prathamjain0608@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-I’m passionate about building dynamic web applications that bridge the gap between frontend and backend systems. With a strong foundation in Python, Django, HTML, CSS, JavaScript, and SQL, I strive to make data integration seamless and accessible.
+- 📄 Know about my experiences [https://drive.google.com/file/d/1qEY6apo5IsJDVGOon13ajM1Jm4b72chB/view?usp=drive_link](https://drive.google.com/file/d/1qEY6apo5IsJDVGOon13ajM1Jm4b72chB/view?usp=drive_link)
 
-🌱 Currently expanding my knowledge at PySpiders, mastering the art of Python Full Stack Development.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/prathamjain0608" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prathamjain0608" height="30" width="40" /></a>
+<a href="https://instagram.com/pratham_0608" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pratham_0608" height="30" width="40" /></a>
+</p>
 
-💻 Languages and Tools:
-
--  Frontend: HTML, CSS, JavaScript – Crafting intuitive and responsive interfaces.
--  Backend: Python, Django – Building robust and scalable web applications.
--  Database: MySQL, SQL – Designing and managing efficient data storage solutions.
--  Tools & Concepts: Virtual environments, template inheritance, and seamless data integration.
-
-📫 How to reach me: prathamjain0608@gmail.com
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
