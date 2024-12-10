@@ -25,4 +25,4 @@ I’m passionate about building dynamic web applications that bridge the gap bet
 -  Database: MySQL, SQL – Designing and managing efficient data storage solutions.
 -  Tools & Concepts: Virtual environments, template inheritance, and seamless data integration.
 
--  📫 How to reach me: prathamjain0608@gmail.com
+📫 How to reach me: prathamjain0608@gmail.com
