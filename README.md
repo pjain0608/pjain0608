@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pratham</h1>
-<h3 align="center">I’m passionate about building dynamic web applications that bridge the gap between frontend and backend systems. With a strong foundation in Python, Django, HTML, CSS, JavaScript, and SQL, I strive to make data integration seamless and accessible.</h3>
+<h3>I’m passionate about building dynamic web applications that bridge the gap between frontend and backend systems. With a strong foundation in Python, Django, HTML, CSS, JavaScript, and SQL, I strive to make data integration seamless and accessible.</h3>
 
 - 🔭 I’m currently working on [Aadhar-Generator](https://github.com/pjain0608/Aadhar-Generator)
 
