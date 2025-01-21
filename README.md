@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pratham</h1>
 <h3 text-align="justify">I’m passionate about building dynamic web applications that bridge the gap between frontend and backend systems. With a strong foundation in Python, Django, HTML, CSS, JavaScript, and SQL, I strive to make data integration seamless and accessible.</h3>
 
-- 🔭 I’m currently working ON FlashKart (Zepto Type - Web Based Application)
-
 - 🌱 I’m currently learning **Python Full Stack Development, Django Framework**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pjain0608](https://github.com/pjain0608)
